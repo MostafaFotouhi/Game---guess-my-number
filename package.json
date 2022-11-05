@@ -1,0 +1,19 @@
+{
+  "name": "guess-my-number",
+  "version": "1.0.0",
+  "description": "Minimal Game - Guess my number",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MostafaFotouhi/Game---guess-my-number.git"
+  },
+  "author": "Mostafa Fotouhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MostafaFotouhi/Game---guess-my-number/issues"
+  },
+  "homepage": "https://github.com/MostafaFotouhi/Game---guess-my-number#readme"
+}
